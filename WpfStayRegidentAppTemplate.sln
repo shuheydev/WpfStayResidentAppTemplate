@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.26430.12
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29512.175
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF常駐アプリテンプレート", "WPF常駐アプリテンプレート\WPF常駐アプリテンプレート.csproj", "{7DFE873C-A348-41ED-BB06-47EC27D20C10}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfStayRegidentAppTemplate", "WpfStayRegidentAppTemplate\WpfStayRegidentAppTemplate.csproj", "{7DFE873C-A348-41ED-BB06-47EC27D20C10}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -18,5 +18,8 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CFF0039F-1050-4024-9A24-09C0D010192F}
 	EndGlobalSection
 EndGlobal

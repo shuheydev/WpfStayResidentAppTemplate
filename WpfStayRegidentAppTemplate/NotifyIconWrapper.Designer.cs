@@ -1,4 +1,4 @@
-﻿namespace WPF常駐アプリテンプレート
+﻿namespace WpfStayRegidentAppTemplate
 {
     partial class NotifyIconWrapper
     {

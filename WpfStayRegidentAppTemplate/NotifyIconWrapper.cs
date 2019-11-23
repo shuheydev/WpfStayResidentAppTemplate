@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace WPF常駐アプリテンプレート
+namespace WpfStayRegidentAppTemplate
 {
     public partial class NotifyIconWrapper : Component
     {
